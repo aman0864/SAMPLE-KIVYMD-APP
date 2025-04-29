@@ -7,7 +7,7 @@ class SampleApp(MDApp):
         self.appKv='''
 MDScreen:
     MDLabel:
-        text:'Hello,World by AMAN'
+        text:'Hello,World by AMAN, updated 2'
         multiline:True
         color:"blue"
         halign:'center'         
